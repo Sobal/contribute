@@ -10,4 +10,4 @@ This board lists github `issues` from all sobal public repos, welcoming internal
 
 ## Viewing
 
-You can view this site live at https://contribute.sobal.fi/(https://contribute.sobal.fi/)
+You can view this site live at [https://contribute.sobal.fi/](https://contribute.sobal.fi/)
