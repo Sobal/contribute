@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sobal Contribute",
   "main": "index.html",
-  "repository": "https://github.com/SobalFinance/contribute.git",
+  "repository": "https://github.com/sobal/contribute.git",
   "author": "Joeh <joeh@sobal.fi>",
   "license": "MIT",
   "dependencies": {

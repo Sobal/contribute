@@ -29,7 +29,7 @@ const handler = async (event) => {
 
         } else {
 
-            const res = await fetch('https://api.github.com/orgs/sobalfinance/repos?sort=updated', {
+            const res = await fetch('https://api.github.com/orgs/sobal/repos?sort=updated', {
                 headers: {
                     Authorization: 'token '+process.env.GITHUB_TOKEN,
                 },
